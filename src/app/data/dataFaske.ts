@@ -1,7 +1,6 @@
 export const dataFake = [
   {
     id: '1',
-    photo: 'aaaaa',
     Title: 'Novo Homem de Ferro Anunciado',
     descripion:
       'Infelizmente a Marvel nunca chegou a realizar Homem de Ferro 4, mas trailer incrível reúne variantes do Tony Stark e faz os fãs sonharem.',
@@ -10,7 +9,6 @@ export const dataFake = [
   },
   {
     id: '2',
-    photo: 'aaaaa',
     Title: 'Novo filme dos Vingares estreia nos cinemas',
     descripion:
       'Vingadores 4 finalmente teve seu título revelado: o novo longa da Marvel se chamará Avengers: EndGame- ou Vingadores: Ultimato no Brasil. Mas como toda essa expectativa chegou nesse ponto?',
@@ -19,7 +17,6 @@ export const dataFake = [
   },
   {
     id: '3',
-    photo: 'aaaaa',
     Title:
       'Vingadores 5 e todos seus heróis a nova formação da equipe da Marvel ',
     descripion:
@@ -29,7 +26,6 @@ export const dataFake = [
   },
   {
     id: '4',
-    photo: 'aaaaa',
     Title: 'Assita Guardians of the Galaxy | Disney+',
     descripion:
       'Em “Guardiões da Galáxia Vol. 3” dos Marvel Studios, nossos desajustados estão se ajustando à vida em Luganenhum. Mas não demora muito para que ecos do passado turbulento de Rocket atrapalhem. Peter Quill vai reunir sua equipe para uma perigosa missão: salvar Rocket – missão que, se falhar, pode levar ao fim dos Guardiões como os conhecemos.',
